@@ -1,0 +1,8 @@
+{
+"name":"Icons", 
+"description":"图标按照命名A-Z排列。", 
+"icons":
+    [
+	{"name":"LinuxDo", "url":"https://raw.githubusercontent.com/sssuzimin/personal_icons/main/Icons/LinuxDo.png"}
+    ]
+}
